@@ -75,12 +75,14 @@ img {
   margin: 0;
   padding: 0;
   display: block;
+  margin-right: 251px;
 }
 
 .site-header__nav {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-right: 226px;
 }
 
 .site-header__list {
@@ -89,7 +91,6 @@ img {
   align-items: center;
   padding: 0;
   margin: 0;
-  margin-right: 226px;
   list-style: none;
 }
 
